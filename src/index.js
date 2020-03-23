@@ -32,6 +32,7 @@ app.use((req, res, next) => {
 });
 
 
+
 //Routers - URl do servidor
 app.use(require('./routes'));
 app.use(require('./routes/authentication'));
