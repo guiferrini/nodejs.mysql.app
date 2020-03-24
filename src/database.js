@@ -31,3 +31,4 @@ pool.query = promisify(pool.query);
 
 //exportando o modulo
 module.exports = pool;
+
